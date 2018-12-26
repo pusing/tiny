@@ -1,6 +1,6 @@
 {
   "name": "@pusing/tiny",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "pusing/tiny",
